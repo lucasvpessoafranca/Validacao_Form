@@ -43,14 +43,13 @@ html,body {
 .quebra {
     width: 100%;
     display: block;
-    line-height: 1.5em;
+    line-height: 1.4em;
 }
 .area-form {
     height:100%;
     width:50%;
     display:flex;
     flex-direction: column;
-
     align-items:center;
         
 }  
@@ -59,7 +58,7 @@ html,body {
     max-width: 640px;
     width:100%;
     background: #fff;
-    padding:30px;
+    padding:20px;
 
     border-radius: 1em;
 }
